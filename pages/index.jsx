@@ -37,10 +37,9 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis,
-            dolor quia Ut minus beatae id, nisi facilis quod. Odio, consectetur.
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero,
-            est.
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+            Repellendus voluptatem necessitatibus consequuntur harum incidunt id
+            quaerat quos at magni mollitia!
           </motion.p>
           {/* btn */}
           <motion.div
